@@ -1,6 +1,6 @@
 # Lists-and-BigInteger
 
-Practice for defining and implementing nodes and lists. BigInteger returns with more member functions and operators. BigInteger is a class where a string is used to represent integers larger than 2<sup>31</sup>.
+Practice for defining and implementing nodes and lists. BigInteger returns with more member functions (is_prime, GCD, Greatest Efficient Exponent) and operators (+, -, *, and /). BigInteger is a class where a string is used to represent integers larger than 2<sup>31</sup>.
 
 ### Prerequisites
 
